@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the battell fought by the forces of the King and Parliament the Marquis of Ormond being generall, and the Lord Vicount Lisle lieutenant generall of the horse, against the bloody rebels in Ireland neer Old Rosse, and not far from Doncannon in the year 1642 / written by Sir Francis Willoughby ...</title>
+            <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66522</idno>
+            <idno type="STC">Wing W2861</idno>
+            <idno type="STC">ESTC R38660</idno>
+            <idno type="EEBO-CITATION">17881955</idno>
+            <idno type="OCLC">ocm 17881955</idno>
+            <idno type="VID">106702</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106702)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1110:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the battell fought by the forces of the King and Parliament the Marquis of Ormond being generall, and the Lord Vicount Lisle lieutenant generall of the horse, against the bloody rebels in Ireland neer Old Rosse, and not far from Doncannon in the year 1642 / written by Sir Francis Willoughby ...</title>
+                  <author>Willoughby of Parham, Francis Willoughby, Baron, 1613?-1666.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Fr. Neile for Samuel Gellibrand ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688.</term>
+               <term>Leicester, Robert Sidney, --  Earl of, 1595-1677.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106702:1" rendition="simple:additions"/>
+            <p>A RELATION OF THE BATTELL Fought by the Forces of the KING and PARLIAMENT, The Marquis of <hi>Ormond</hi> being GE<g ref="char:EOLhyphen"/>NERALL, and the Lord Vicount LISLE Lieuenant Generall of the Horſe, Againſt the bloody Rebels in <hi>Ireland</hi> neer <hi>Old Roſſe,</hi> and not far from <hi>Doncannon</hi> in the Year 1642.</p>
+            <p>WRITTEN BY Sir FRANCIS WILLOUGHBY Knight, Major Generall of the Army, and one of the moſt Hono<g ref="char:EOLhyphen"/>rable Privie Counſell in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Fr: Neile</hi> for <hi>Samuel Gellibrand,</hi> and are to be ſold at his Shop at the Braſen Serpent in <hi>Pauls</hi> Church-yard. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:106702:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:106702:2"/>
+            <p>
+               <seg rend="decorInit">I</seg> Having heard ſeverall diſcourſes and opinions ſince my being in <hi>England</hi> concerning the Battell fought neer unto old <hi>Roſſe</hi> in <hi>Ireland,</hi> between our Army commanded by the now Lord Marquis of <hi>Ormond</hi> as Generall, my Lord <hi>Liſle</hi> Lieutenant Generall of the Horſe, my ſelf being Major Generall; by which diſcourſes, and variety of opinions, I find that many are miſtaken in the truth thereof. So as I having by me ſome collections, as alſo the man<g ref="char:EOLhyphen"/>ner and form of the Battell, I have thought fit according to my beſt knowledge to ſet down the paſſages of that ſervice as neer as I can: which is as followeth.</p>
+            <p>Our preſent wants being ſo great at <hi>Dublin</hi> at that time, as the then Lords Juſtices, <hi>viz:</hi> Sir <hi>William Parſons,</hi> and Sir <hi>John Borlerie</hi> Knights, could find no means to ſupport the great charge of our Army: no ſupplies coming out of <hi>England</hi> for our relief at that time, and the Souldiers in great want. The Lord <hi>Liſle</hi> Lieutenant Generall of the Horſe, was pleaſed to propound a journey in hope to gain a livelihood abroad in the Enemies quarters, for the bet<g ref="char:EOLhyphen"/>ter ſubſiſtance of the Army, which after mature deliberation had at the Counſell Table it was reſolved on; and that accordingly the Lord <hi>Liſle</hi> ſhould go. And for the better enabling of our Ar<g ref="char:EOLhyphen"/>mie to march, and for furthering that deſigne, moſt of the Coun<g ref="char:EOLhyphen"/>ſell did lend good ſummes of money (and ſome melted their Plate) or gave it in to be melted for that ſervice: which moneys ſo lent was accordingly received, and iſſued unto the Officers, upon my own knowledge, I being appointed both to receive it, and to pay it out by order of the Counſell Table: all things be<g ref="char:EOLhyphen"/>ing in a readineſſe for the journey, but whither intended un<g ref="char:EOLhyphen"/>known to me. The now Lord Marquis of <hi>Ormond,</hi> our then Gene<g ref="char:EOLhyphen"/>rall, was pleaſed to ſignifie unto the Lords Juſtices and Counſell that if the Army went forth his Lordſhip would go along with it himſelf, and did ſo, taking order that a Ship ſhould be ſent about unto Duncannon Fort, with a ſupply of Bisket and provi<g ref="char:EOLhyphen"/>ſion
+<pb n="7" facs="tcp:106702:3"/>if need ſhould be; giving unto Sir <hi>Philip Perſevall</hi> Commiſſary Generall of the victuals, fourty pounds for the hire of the Ship ſo imployed: and when our Army came neer unto Carloe Caſtle, it was drawn into battalia, and a Counſell of Warre called, and thee reſolved on, that we ſhould march unto <hi>Roſſe</hi> to beſiege, and to take it in. And coming before the Town we quartered there, and the ſecond day we planted our Ordnance for batery, which were two Demy Culverins; the next day the Enemy put over in<g ref="char:EOLhyphen"/>to the Town two thouſand men, there being but two Companies in before: which ſupply putting in, it was not poſſible for us to hinder, they being on the contrary ſide the River to us. But not<g ref="char:EOLhyphen"/>withſtanding that ſupply ſo put in, we proceeded with our bat<g ref="char:EOLhyphen"/>tery and made a breach, which we aſſaulted with certain of our Forces choſen out for that purpoſe: Sir <hi>Fowlk Hunks,</hi> and Major <hi>Morris</hi> having the command and full management of that ſer<g ref="char:EOLhyphen"/>vice; Major Morris being there dangerouſly hurt in the Aſſault, and brought off, and by reaſon of the multitude of the defenders, who had ſtopt the breach with wooll-packs, and feather-beds, and other proviſions, ſo as we could do no good in it. I had or<g ref="char:EOLhyphen"/>der from the Lord Generall to draw them off, which I according<g ref="char:EOLhyphen"/>ly did, in which ſervice we loſt ſome few men; the weather being extreame ill was a great hindrance to our proceedings. For du<g ref="char:EOLhyphen"/>ring the time we were before the Town of <hi>Roſſe,</hi> we had ſcarce a fair day in fourteen, which was the time, according to my beſt remembrance, that we ſtayed.</p>
+            <p>During which time, we lived in daily hopes of the coming of our Ship with proviſions, which failed by contrary winds, and never came unto us; inſomuch as our ſtore being exhauſted, and ſpent, my Lord Generall imployed Sir <hi>Thomas Armſtrong</hi> to the Lord <hi>Eſmond,</hi> governor of Duncannon Fort, to ſee with what proviſions his Lordſhip could furniſh us with: who ſent unto the relief of our A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my ten thouſand weight of Bisket, being all he could ſpare us as he alledged; and withall commanded two Barks or Veſſels to fall down to <hi>Roſſe,</hi> that then lay by the Fort, which Veſſels ſhot many ſhot into the Town, much annoying the Enemy. But the Enemy drew a piece of Ordnance to the other ſide of the water, with which they ſo battered the ſhips lying at ancher, that the Mariners were forced to forſake their ſhips, and
+<pb n="5" facs="tcp:106702:3"/>to bore holes in them to ſink them, by reaſon they could not get off their ſhips again, the winde being contrary, and ill weather: and that being done, the Sea-men came into our quarter, and ſtayed with our Army where they did very good ſervice.</p>
+            <p>We had not lain long before <hi>Roſſe</hi> before we were informed of the approach of the Army of the Enemy, under the command of Generall <hi>Preſton,</hi> and Collonel <hi>Cullin</hi> their Lieutenant Generall; who at laſt came and quartered within a league of us, which hindred our Horſe from forraging abroad, they being, as we were informed, neer upon ſeven thouſand ſtrong Horſe and Foot, with the Forces that were in <hi>Roſſe,</hi> which preſently joyned with them after our remove from the Town. Which remove of ours was cauſed through want of proviſions for our Army, not ha<g ref="char:EOLhyphen"/>ving above three dayes bread for the Souldiers, and being above threeſcore miles from <hi>Dublin,</hi> having a powerfull Army attend<g ref="char:EOLhyphen"/>ing on us. We raiſing ouir fiege, the Army of the Enemy withdrew further off to a wood and a bogge, where the Forces in <hi>Roſſe</hi> came to them. That night we retyred from <hi>Roſſe,</hi> we quartered about ſix miles from <hi>Roſſe,</hi> and within two miles of old <hi>Roſſe</hi> upon an Heath, from whence we might and did diſcover where the Ene<g ref="char:EOLhyphen"/>mie quartered. The next morning we marched towards the Ene<g ref="char:EOLhyphen"/>mie, who relying upon his ſtrength, being two thouſand more by report then our Army was, he forſook the woods and boggs, and met us in the plain field, having a bogge behinde him. We com<g ref="char:EOLhyphen"/>ing neer unto them, my Lord Generall of our Army gave me di<g ref="char:EOLhyphen"/>rection to draw into battalia, which accordingly I did, and cau<g ref="char:EOLhyphen"/>ſed our Ordnance to be planted: that being done, the Lord <hi>Liſle</hi> appointed ſome Horſe to go to diſcover the Army of the Enemy, and how they lay. Againſt which the Enemy ſent out a greater number of their Horſe, ſo as our Horſe retyred back to us again in good order; the Enemy following them, and at a far diſtance fired upon their arrear, but did no hurt, and ſo returned again into their quarters; a ſmall riſing ground being between their Army and ours, my Lord Generall called me to him, ſaying, If we could get to that high peece of ground and poſſeſſe it, it might much advantage us in that dayes ſervice, for we ſhould have the Sun and the winde with us, and alſo plainly ſee the Enemies mo<g ref="char:EOLhyphen"/>tions, and how they ſtood in battalia. Whereupon I cauſed the
+<pb n="6" facs="tcp:106702:4"/>Army to march in full battalia and poſſeſt that ground, the whole Army of the Enemy ſtanding before us in a plain not a Musket ſhot from us; their Horſe being in a great lane or high<g ref="char:EOLhyphen"/>way, ready to have iſſued out upon us. Whereupon I diſpoſed of our forlorn hope of Musketiers commanded that day by Captain <hi>Atkins,</hi> along a ditch ſide that was betwixt our Army and the Enemies, with direction to the Captain to ply his Musketiers in continuall playing upon the battalions of the Enemy, which lay within Musket ſhot of us. In the mean time I cauſed the Ord<g ref="char:EOLhyphen"/>nance to be planted in the moſt advantagious places, and plant<g ref="char:EOLhyphen"/>ed the two Demy Culverins in the mouth of the Lane where the Enemies horſe ſtood; where with the two firſt ſhot that were made amongſt them, our Ordnance ſlue at leaſt threeſcore horſe and men, inſomuch as the Enemies horſe would not endure the ſecond charge, nor ſtay the diſcharging any more in that place, but haſtned into the field on their left hand, where rainging their men anew.</p>
+            <p>I ſaw the Lord <hi>Liſle</hi> Lieutenant Generall of the Horſe, and Sir <hi>Thomas Lucas</hi> Commiſſary Generall of our Horſe, preparing all our Horſe ready to charge the Enemies Horſe, our Ordnance con<g ref="char:EOLhyphen"/>tinually beating upon the Enemies Forces, the Enemy having no Ordnance in the field that day, which was no ſmall happineſſe to us as I conceived. Our horſe being ready with their ſwords drawn and in their bridle hands, their Piſtols in the other hand. I ſaw the Lord <hi>Liſle</hi> with the horſe paſſe over a ditch into the plain where the Enemies horſe were; and I ſaw our horſe and the Enemies horſe charge each other; and I ſaw Piſtols go off and diſ<g ref="char:EOLhyphen"/>charged at each other: and while I was otherwiſe imployed that day in the Army of the Foot, the Enemies horſe and ours paſſed by on the right hand of our battery, hewing and flaſhing each other; and being ſo paſt by the right hand of our Army, a ſudden ſtand was made by them for a little while, but were ſtill in action exchanging blows with each other; which ſtand ſo made, as I was after informed, was cauſed by a ſhot the Lord <hi>Liſle</hi> his horſe had in his knee, and the fall of Sir <hi>Thomas Lucas</hi> his horſe vvith him, vvho vas dangerouſly hurt in his head, before he could be reco<g ref="char:EOLhyphen"/>vered; and being recovered, I ſavv all the horſe purſuing each other tovvard the place vvhere our vvaggons and carriages
+<pb n="7" facs="tcp:106702:4"/>ſtood. And as I was after informed, our Horſe had there a ſtrong encounter with the Horſe of the Rebels; in which conflict divers priſoners of the Enemy were taken, and amongſt them Collonel <hi>Cullin</hi> their Lieutenant Generall, unto whom quarter was given, and after, by order of the Lord Generall, committed unto my charge and ſafe keeping; of whom I took charge, and kept him ſafe untill I brought him to the Caſtle of <hi>Dublin</hi> (my then go<g ref="char:EOLhyphen"/>vernment) where I delivered the ſaid Collonel <hi>Cullin</hi> into the hands of the then Lords Juſtices, <hi>viz:</hi> Sir <hi>William Parſons,</hi> and Sir <hi>John Borlacie,</hi> and in regard of my other imployments that day amongſt the Foot, I was no eye-witneſſe of what was further done betwixt them: onely I heard that our Horſe had the better of the Enemies horſe, and hat the Enemies fled and were routed; and certain I am, that the Horſe of the Enemy never returned to the Army of their Foot that day any more, ſo long as we were in fight with them, the day of the battell.</p>
+            <p>Over which Army of the Rebels Foot, although much ſtronger then ours in number, it pleaſed God (in the abſence of both ours and the Enemies Horſe) to give us an happie victory, our Ord<g ref="char:EOLhyphen"/>nance doing us very good ſervice that day. In which ſervice and victory the Enemy loſt many of their prime gentlemen of their Countrey that day; the reſt that ſcaped fled over the bogge, and rallied again on a hill on the other ſide of a bogge, and hard by a wood ſide where part of our Army following of them, they in<g ref="char:EOLhyphen"/>ſtantly ran into the wood, leaving all their ammunition and baggage behinde them which we took; and the Enemy never left marching till they got over the Barrow a River, where being over, they broke down the Bridge, fearing our Army ſhould purſue them, which as I conceived was a ſecond happie victory, in re<g ref="char:EOLhyphen"/>gard our Army with our Ordnance and many Carriages was to paſſe through many great ſtraights, woods, and ſtony and rockie paſſages, which having no hindrances but the illneſſe of the wayes, we had enough to do to make our paſſage through them; and had the Rebels intercepted us upon thoſe paſſages, certain I am he would have endangered our Army, we having not above two dayes bread or ſcarce ſo much; and by being hindred or re<g ref="char:EOLhyphen"/>tarded in our journey, we ſhould through want have been in danger to be loſt. All our Horſe as ſoon as the victory was gained
+<pb n="8" facs="tcp:106702:5" rendition="simple:additions"/>over the Foot of the Enemy (or in a little time after) the Enemies Horſe being fled, came to us, and quartered by us; my Lord Gene<g ref="char:EOLhyphen"/>rall and my Lord <hi>Liſle</hi> after viewing the dead bodies, and giving order to the Pioneers to bury them, quartered in the place or field where the Enemy was overthrown. The next day to my beſt knowledge our Army marched homewards toward <hi>Dublin</hi> with<g ref="char:EOLhyphen"/>out ſeeing any Enemy more in all our journey, but what we ſaw marching on the other ſide of the River the Barrow toward <hi>Kil<g ref="char:EOLhyphen"/>kennie;</hi> and in our way homeward we burnt and ſpoyled the Ene<g ref="char:EOLhyphen"/>mies Countrey. And this being as neer as my obſervation taken, and my beſt memory can inform me, I ſhall conclude, that I hope this may ſatisfie the unſatisfied.</p>
+            <div type="verification_of_account">
+               <p>Sir <hi>Francis Willoughby</hi> having imparted unto us this above-written Diſcourſe, we do teſtifie that it doth agree to our beſt re<g ref="char:EOLhyphen"/>membrance with ſuch Relations as were brought unto us at the Councell Board from ſeverall Officers and others, of the actions of that Army after they parted from us at <hi>Dublin,</hi> untill they re<g ref="char:EOLhyphen"/>turned thither again.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>William Parſons.</item>
+                        <item>Iohn Temple.</item>
+                        <item>Adam Loftus.</item>
+                        <item>R. Meredith.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS:</trailer>
+            <pb facs="tcp:106702:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
